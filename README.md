@@ -1,4 +1,6 @@
-# epexbackuptool
+# Epex Backup Tool
+Criado por: Emmanuel Siqueira
+
 Como usar o Epex Backup Tool
 Pré-requisitos
 Python 3.6 ou superior
