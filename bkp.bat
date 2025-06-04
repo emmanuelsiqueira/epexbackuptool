@@ -1,0 +1,1 @@
+python bkp_incremental_cli.py c:\bkp\origem c:\bkp\destino 
