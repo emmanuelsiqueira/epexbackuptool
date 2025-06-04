@@ -19,8 +19,8 @@ class EpexBackupTool:
         self.author = "Emmanuel Siqueira | Coordenador Geral de Informática"
         self.banner = f"""
         #############################################
-        #          Epex Backup Tool v{self.version}         #
-        #  Criado por {self.author}  #
+        #          Epex Backup Tool v{self.version} #
+        #  Criado por {self.author}                 #
         #############################################
         """
         
