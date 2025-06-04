@@ -16,7 +16,7 @@ logger = logging.getLogger('EpexBackupTool')
 class EpexBackupTool:
     def __init__(self):
         self.version = "1.0"
-        self.author = "Emmanuel Siqueira | Coordenador Geral de Informática"
+        self.author = "Emmanuel Siqueira | @emmanuelsiqueirapro"
         self.banner = f"""
         #############################################
         #          Epex Backup Tool v{self.version} #
