@@ -18,7 +18,7 @@ class EpexBackupToolGUI:
         self.root = root
         self.root.title("Epex Backup Tool")
         self.version = "1.0"
-        self.author = "Emmanuel Siqueira"
+        self.author = "Emmanuel Siqueira | @emmanuelsiqueirapro"
         
         # Configuração do estilo
         self.style = ttk.Style()
