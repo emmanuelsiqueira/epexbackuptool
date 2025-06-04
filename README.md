@@ -1,4 +1,6 @@
 # Epex Backup Tool
+Ferramenta de Backup com criptografia e verificação de integridade.
+
 Criado por: Emmanuel Siqueira
 
 Como usar o Epex Backup Tool
